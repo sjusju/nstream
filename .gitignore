@@ -34,6 +34,7 @@
 *.i*86
 *.x86_64
 *.hex
+*.x
 
 # Debug files
 *.dSYM/
@@ -59,3 +60,4 @@ __pycache__/
 
 # Output executable
 NetPipe
+test
